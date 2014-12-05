@@ -28,7 +28,7 @@
 		        android:layout_height="wrap_content"
 		        android:imeOptions="actionNext"
 		        android:inputType="textUri"
-		        android:text="http://" />
+		        android:text="" />
 
 		    <Button
 		        android:id="@+id/testEditSite"
